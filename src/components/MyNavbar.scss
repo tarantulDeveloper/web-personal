@@ -1,0 +1,9 @@
+.nav-item {
+    border: 1px transparent;
+    max-width: max-content;
+    color: white;
+    .active {
+        border: 2px solid gold;
+        border-radius: 20px;
+    }
+}
